@@ -1,0 +1,10 @@
+{
+  "template": "{\n tags: [file.parent.parent.name, file.parent.name]\n}",
+  "folderToIgnore": "",
+  "internal": {
+    "ignoredFolders": []
+  },
+  "runOnModifyNotInFile": false,
+  "runOnModifyInFile": false,
+  "sortYamlKey": true
+}

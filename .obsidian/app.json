@@ -1,0 +1,16 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "showRibbon": true,
+  "propertiesInDocument": "source",
+  "tabSize": 4,
+  "useTab": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
+}

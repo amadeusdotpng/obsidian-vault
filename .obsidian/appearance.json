@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "textFontFamily": "Liga SFMono Nerd Font,SFMono Nerd Font",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "tags",
+    "app"
+  ],
+  "baseFontSize": 18,
+  "theme": "moonstone"
+}

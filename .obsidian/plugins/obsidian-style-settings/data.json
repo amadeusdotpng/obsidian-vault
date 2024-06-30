@@ -1,0 +1,17 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "Editor@@line-hover-indicator": false,
+  "Appearance-light@@accent-color-override-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Appearance-light@@accent-light": "#D7827E",
+  "Appearance-light@@background-tertiary@@light": "#F2E9E1",
+  "Appearance-light@@background-secondary@@light": "#FAF4ED",
+  "Appearance-light@@text-normal@@light": "#575279",
+  "Appearance-light@@text-muted@@light": "#797593",
+  "Appearance-light@@text-faint@@light": "#9893A5",
+  "Appearance-light@@card-layout-open-light": true,
+  "Components@@outline-enhanced": false,
+  "Appearance-light@@background-primary@@light": "#FAF6F0",
+  "Appearance-light@@background-underlying-select-light": "background-underlying-Color-light",
+  "Appearance-light@@background-underlying-light": "#FFEBEB"
+}
