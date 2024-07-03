@@ -3,6 +3,7 @@ tags:
   - math
   - set-theory
   - paradox
+  - russells-paradox
 ---
 # Russell's Paradox
 
