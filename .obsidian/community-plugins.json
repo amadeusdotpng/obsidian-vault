@@ -3,7 +3,5 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
   "obsidian-vimrc-support",
-  "obsidian-relative-line-numbers",
-  "frontmatter-generator",
-  "custom-save"
+  "obsidian-relative-line-numbers"
 ]
