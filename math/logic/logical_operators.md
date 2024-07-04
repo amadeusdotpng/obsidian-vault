@@ -6,7 +6,7 @@ tags:
 ---
 
 # Logical Operators
-Propositions The three foundational logical operators.
+[Propositions](math/logic/propositions) can be connected using logical operators. In the case of the unary operator $\neg$ the truth value of the proposition is simply switched. The three foundational logical operators.
 - $\neg$ - negation (NOT)
 - $\wedge$ - conjunction (AND)
 - $\vee$ - disjunction (OR)
