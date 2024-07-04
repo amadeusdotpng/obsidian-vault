@@ -36,3 +36,13 @@ This principle states that a person is only morally responsible for they have do
 3. Therefore, an agent is responsible for an action only if causal determinism is false.
 
 ## Frankfurt's Objection
+
+---
+
+# Definitions of Free Will
+A common definition of "free will" is the freedom to act on one's _motive_ despite the motive being deterministic. This definition "does not rely on the truth or falsity of causal determinism" [Paragraph 1](https://en.wikipedia.org/wiki/Compatibilism#Defining_free_will)
+
+
+# Sources
+- [Wikipedia](https://en.wikipedia.org/wiki/Compatibilism#)
+- [Plato Stanford](https://plato.stanford.edu/entries/compatibilism)
