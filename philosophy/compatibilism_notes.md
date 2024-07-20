@@ -42,7 +42,16 @@ This principle states that a person is only morally responsible for they have do
 # Definitions of Free Will
 A common definition of "free will" is the freedom to act on one's _motive_ despite the motive being deterministic. This definition "does not rely on the truth or falsity of causal determinism" [Paragraph 1](https://en.wikipedia.org/wiki/Compatibilism#Defining_free_will)
 
-
 # Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Compatibilism#)
 - [Plato Stanford](https://plato.stanford.edu/entries/compatibilism)
+
+# Tabs
+- [Compatibilism - Wikipedia](https://en.wikipedia.org/wiki/Compatibilism#)
+- [Compatibilism - Stanford Plato](https://plato.stanford.edu/entries/compatibilism/#DeteAltePoss)
+- [Fatalism - Stanford Plato](https://plato.stanford.edu/entries/fatalism/#LogiFataArisArguNatuTrut)
+- [Foreknowledge and Free Will - Plato Stanford](https://plato.stanford.edu/entries/free-will-foreknowledge/)
+- [Argument From Free Will - Wikipedia](https://en.wikipedia.org/wiki/Argument_from_free_will)
+- [Metaphysics - Wikipedia](https://en.wikipedia.org/wiki/Argument_from_free_will)
+- [Diodorus Cronus](https://plato.stanford.edu/entries/diodorus-cronus/)
+- [Master Argument - Wikipedia](https://en.wikipedia.org/wiki/Master_argument)
