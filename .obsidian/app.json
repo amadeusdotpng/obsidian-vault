@@ -12,5 +12,6 @@
   "showInlineTitle": false,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "defaultViewMode": "preview"
 }

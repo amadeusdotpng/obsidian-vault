@@ -1,7 +1,8 @@
 [
-  "calendar",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
   "obsidian-vimrc-support",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "templater-obsidian",
+  "obsidian-markdown-furigana"
 ]

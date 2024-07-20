@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Border",
-  "textFontFamily": "Liga SFMono Nerd Font,SFMono Nerd Font",
+  "textFontFamily": "Liga SFMono Nerd Font,Meiryo",
   "showViewHeader": true,
   "nativeMenus": false,
   "enabledCssSnippets": [
@@ -9,5 +9,6 @@
     "app"
   ],
   "baseFontSize": 18,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "Segoe UI,Meiryo"
 }

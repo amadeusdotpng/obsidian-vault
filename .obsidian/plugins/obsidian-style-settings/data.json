@@ -13,5 +13,6 @@
   "Components@@outline-enhanced": false,
   "Appearance-light@@background-primary@@light": "#FAF6F0",
   "Appearance-light@@background-underlying-select-light": "background-underlying-Color-light",
-  "Appearance-light@@background-underlying-light": "#FFEBEB"
+  "Appearance-light@@background-underlying-light": "#FFEBEB",
+  "Editor@@border-focus-mode": false
 }
